@@ -1,0 +1,28 @@
+{
+  "name": "eyerc",
+  "version": "0.0.1",
+  "description": "IRC client that looks awesome",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshulMalik/irc.git"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "Anshul Malik <malikanshul29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnshulMalik/irc/issues"
+  },
+  "homepage": "https://github.com/AnshulMalik/irc#readme",
+  "dependencies": {
+    "irc": "^0.5.2"
+  },
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
